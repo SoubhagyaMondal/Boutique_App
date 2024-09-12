@@ -3,7 +3,7 @@
 # See https://editorconfig.org
  
 root = true
-
+ 
 [*]
 insert_final_newline = true
 trim_trailing_whitespace = true
