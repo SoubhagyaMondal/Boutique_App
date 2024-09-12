@@ -6,3 +6,4 @@ insert the correct `image:` tags.
 
 Use the manifests in [/release](/release) directory which are configured with
 pre-built public images.
+ 
